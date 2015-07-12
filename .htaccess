@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Restricted Area: Please Enter Password"
-AuthUserFile /growthIQ/test.io/.HTmypassword
+AuthUserFile Users/Bo/Documents/GitHub/growthIQ/test.io/.HTmypassword
 require valid-user
